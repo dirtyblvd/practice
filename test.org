@@ -5,6 +5,11 @@
 
 + GitHub のテスト
 
+** ShiroTakeda が追加。
+
++ test
++ test
+
 
 
 # --------------------
