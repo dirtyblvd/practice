@@ -25,3 +25,8 @@
 -   test
 -   test
 
+## ShiroTakeda が追加 (2)
+
+-   test
+-   test
+
