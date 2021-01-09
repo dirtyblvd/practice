@@ -30,8 +30,3 @@
 -   test
 -   test
 
-## ShiroTakeda が追加 (3)
-
--   test
--   test
-
